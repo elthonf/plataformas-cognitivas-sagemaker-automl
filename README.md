@@ -6,3 +6,7 @@ Este repositório terá tanto conteúdo utilizando o AWS SageMaker Studio como a
 
 Os documentos aqui contidos foram feitos pensando em serem rodados dentro do SageMaker, para rodar de outro ambiente necessitará de adaptações.
 
+<hr>
+- Standard: Usa o SageMaker como ferramenta de Build and Deploy
+- AutoPilot: Usa o AutoML do SageMaker
+
